@@ -1,7 +1,5 @@
 # SecureTask — Pipeline DevSecOps (Praktikum 5)
 
-!\[DevSecOps Pipeline](https://github.com/naylaaulianafisha-ship-it/devsecops-p5-0110225094/actions/workflows/devsecops.yml/badge.svg)
-
 ## 1\. Nama Aplikasi \& Fungsi
 
 **SecureTask** adalah aplikasi manajemen tugas (to-do list) berbasis command-line.
