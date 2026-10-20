@@ -1,5 +1,5 @@
-   import subprocess
+import subprocess
 
 
-   def run_command(cmd):
-       return subprocess.call(cmd, shell=True)
+def run_command(cmd):
+    return subprocess.call(cmd, shell=True)
