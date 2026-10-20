@@ -1,0 +1,1 @@
+# Aplikasi hanya memakai standard library Python.
